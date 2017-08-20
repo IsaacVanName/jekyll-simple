@@ -12,20 +12,22 @@ layout: default
     {{ page.content }}
   </div>
 
-  <footer class="article-footer">
-
   {% comment %}
-    include share.html
+    <footer class="article-footer">
+
+    {% comment %}
+      include share.html
+    {% endcomment %}
+
+    <hr/>
+
+    {% comment %}
+      include author.html
+    {% endcomment %}
+
+    </footer>
+
+    {% include dq.html %}
   {% endcomment %}
-
-  <hr/>
-
-  {% comment %}
-    include author.html
-  {% endcomment %}
-
-  </footer>
-
-  {% include dq.html %}
 
 </article>
