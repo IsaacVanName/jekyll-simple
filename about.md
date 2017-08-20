@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+I'm a 35 year old programmer with over 10 years of programming experience. I spent much of that time leading software project teams and mentoring senior developers. I have specific experience using:
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+* JavaScript / NodeJS
+* PHP (Laravel and CodeIgniter as MVC libraries)
+* MySQL / PostgreSQL
+* Redis, DynamoDB
+* ReactJS, Angular 1 & 2, and KnockoutJS
+* AWS EC2, S3, SQS, and SSM
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+I've also dabbled in a number of other things, which you can find on [my LinkedIn](https://www.linkedin.com/in/isaacvanname). I'm always up for a good technical/professional chat, so feel free to message.
